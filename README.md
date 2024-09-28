@@ -1,4 +1,4 @@
-# Image-OCR-and-Search-app
+# Image-OCR-and-Search-model02
 Developed and deployed a web-based prototype that demonstrates the ability to perform Optical Character Recognition (OCR) on an uploaded image (in picture format) containing text in both Hindi and English using Qwen2-VL.
 
 ### Setup and Installation
