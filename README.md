@@ -4,7 +4,7 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
 ### Setup and Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Tejas1206/Image-OCR-and-Search.git
+   git clone https://github.com/antima123-bit/Image-OCR-and-Search-model02.git
    cd Image-OCR-and-Search
    ```
 2. **Set up a Virtual Environment**
