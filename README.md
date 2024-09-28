@@ -20,11 +20,7 @@ Developed and deployed a web-based prototype that demonstrates the ability to pe
    ```Shell
     jupyter notebook  
     ```
-
-### Web Application
-
-**huggingface link:** https://huggingface.co/spaces/tejas1206/ImageOCR
-
+   
 **Usage:**
 <li>Upload an image containing Hindi and English text.</li>
 <li>View the extracted text displayed in the app.</li>
