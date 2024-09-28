@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/transformers
+torch==2.4.1
+torchvision==0.19.1
+gradio==4.44.0
+qwen-vl-utils==0.0.8
+pillow==10.4.0
+notebook==7.2.2
